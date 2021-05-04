@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\Exercício_Nadador.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\Exercício_Nadador.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\Exercício_Nadador.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\Exercício_Nadador.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\Exercício_Nadador.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\ref\Exercício_Nadador.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\bin\Debug\net5.0\Exercício_Nadador.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\ref\Exercício_Nadador.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nadador\obj\Debug\net5.0\Exercício_Nadador.genruntimeconfig.cache
