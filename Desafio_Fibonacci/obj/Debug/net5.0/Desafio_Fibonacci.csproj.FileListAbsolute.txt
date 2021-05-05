@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\Desafio_Fibonacci.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\Desafio_Fibonacci.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\Desafio_Fibonacci.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\Desafio_Fibonacci.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\Desafio_Fibonacci.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\ref\Desafio_Fibonacci.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\bin\Debug\net5.0\Desafio_Fibonacci.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\ref\Desafio_Fibonacci.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Desafio_Fibonacci\obj\Debug\net5.0\Desafio_Fibonacci.genruntimeconfig.cache

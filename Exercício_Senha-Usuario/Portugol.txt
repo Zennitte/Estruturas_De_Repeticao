@@ -1,0 +1,22 @@
+Exercicio Usuario e Senha{
+
+    lógico verificacao = falso
+
+    enquanto (verificacao == falso)
+    {
+        escreva("Digite seu nome")
+        cadeia nome = leia
+
+        escreva("Digite sua senha")
+        cadeia senha = leia
+
+        se (senha == nome)
+        {
+            leia("A senha não pode ser igual ao nome, tente novamente")
+        }se (senha != nome)
+        {
+            leia("Usuario cadastrado")
+            verificacao = verdadeiro
+        }
+    }
+}

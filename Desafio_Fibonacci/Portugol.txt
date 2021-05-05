@@ -1,0 +1,19 @@
+Fibonacci{
+
+    escreva("Fibonacci")
+
+    inteiro numeroAnterior = 0
+    inteiro numeroAtual = 1
+    inteiro Fibonacci
+
+    programa inicio{
+
+        para (inteiro i = 0; i < 15; i++)
+        {
+            fibonacci = numeroAtual + numeroAnterior
+            escreva(fibonacci)
+            numeroAnterior = numeroAtual
+            numeroAtual = fibonacci
+        }
+    }
+}

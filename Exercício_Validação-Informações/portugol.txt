@@ -1,0 +1,72 @@
+Exercicio Validação Informações{
+
+    lógico validacaoNome = falso
+    lógico validacaoIdade = falso
+    lógico validacaoSalario = falso
+    lógico validacaoEstadoCivil = falso
+
+    enquanto (validacaoNome == falso)
+    {
+        escreva("Digite seu nome")
+        cadeia nome = leia
+
+        se (nome == "")
+        {
+            escreva("O nome não pode ser vazio, tente novamente")
+        }
+        se (nome != "")
+        {
+            validacaoNome = verdadeiro
+        }
+    }
+    enquanto (validacaoIdade == falso)
+    {
+        escreva("Digite sua idade")
+        inteiro idade = leia
+
+        se (idade > 0 e idade < 150)
+        {
+            validacaoIdade = verdadeiro
+        }
+        se (idade < 0 ou idade > 150)
+        {
+            escreva("Idade invalida, tente novamente")
+        }
+    }
+    enquanto (validacaoSalario == falso)
+    {
+        escreva("Digite seu salario")
+        cadeia salarioString = leia
+
+        se(salarioString == "")
+        {
+            salarioString = "0"
+        }
+
+        real salario = salarioString
+
+        se (salario > 0)
+        {
+            validacaoSalario = verdadeiro
+        }
+        se (salario <= 0)
+        {
+            escreva("Salário invalido, tente novamente")
+        }
+    }
+    enquanto (validacaoEstadoCivil == false)
+    {
+        escreva("Digite seu estado civil; S para solteiro(a), C para casado(a), V para viuvo(a) e D para divorciado(a)")
+        cadeia estadoCivil = leia
+
+        se (estadoCivil == "S" ou estadoCivil == "C" ou estadoCivil == "V" ou estadoCivil == "D")
+        {
+            escreva("Parabens todas as suas informações estão validadas")
+            validacaoEstadoCivil = verdadeiro
+        }
+        senao
+        {
+            escreva("Estado civil invalido, tente novamente")
+        }
+    }
+}

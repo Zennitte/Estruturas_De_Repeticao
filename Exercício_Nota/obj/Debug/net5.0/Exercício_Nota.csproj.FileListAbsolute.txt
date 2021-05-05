@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\Exercício_Nota.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\Exercício_Nota.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\Exercício_Nota.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\Exercício_Nota.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\Exercício_Nota.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\ref\Exercício_Nota.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\bin\Debug\net5.0\Exercício_Nota.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\ref\Exercício_Nota.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Nota\obj\Debug\net5.0\Exercício_Nota.genruntimeconfig.cache

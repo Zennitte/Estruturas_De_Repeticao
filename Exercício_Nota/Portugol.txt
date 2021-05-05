@@ -1,0 +1,22 @@
+Exercicio Idade{
+
+    lógico respostaCorreta = falso
+
+    programa inicio{
+        
+        enquanto (respostaCorreta == falso)
+        {
+            escreva("Digite um número de 0 a 10")
+            cadeia resposta = leia
+
+            se (resposta == "7")
+            {
+                escreva("Parabéns você acertou o número")
+                respostaCorreta = verdadeiro
+            } senao
+            {
+                escreva("Você não acertou o número tente novamente")
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\Exercício_Validação-Informações.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\Exercício_Validação-Informações.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\Exercício_Validação-Informações.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\Exercício_Validação-Informações.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\Exercício_Validação-Informações.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\ref\Exercício_Validação-Informações.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\bin\Debug\net5.0\Exercício_Validação-Informações.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\ref\Exercício_Validação-Informações.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Validação-Informações\obj\Debug\net5.0\Exercício_Validação-Informações.genruntimeconfig.cache

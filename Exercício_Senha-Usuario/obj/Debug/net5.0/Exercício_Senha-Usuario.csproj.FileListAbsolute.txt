@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\Exercício_Senha-Usuario.exe
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\Exercício_Senha-Usuario.deps.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\Exercício_Senha-Usuario.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\Exercício_Senha-Usuario.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\Exercício_Senha-Usuario.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\ref\Exercício_Senha-Usuario.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\bin\Debug\net5.0\Exercício_Senha-Usuario.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\ref\Exercício_Senha-Usuario.dll
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.pdb
+C:\Users\User\OneDrive\Documentos\Senai\Back-End\Estruturas_De_Repetição\Exercício_Senha-Usuario\obj\Debug\net5.0\Exercício_Senha-Usuario.genruntimeconfig.cache
